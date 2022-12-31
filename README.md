@@ -17,3 +17,5 @@ Allows you to track all the Kubernetes resources.
 ### Smart Mirror
 
 Makes your mirror smart showing notifications, the news, weather...
+
+[server](img/server.png)
