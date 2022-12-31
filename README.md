@@ -24,7 +24,7 @@ HomeAssistant allows you to have a SmartHome platform for all your gadgets.
 
 Allows you to track all the Kubernetes resources.
 
-####Smart Mirror
+#### Smart Mirror
 
 Makes your mirror smart showing notifications, the news, weather...
 
