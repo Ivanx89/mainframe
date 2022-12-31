@@ -18,4 +18,4 @@ Allows you to track all the Kubernetes resources.
 
 Makes your mirror smart showing notifications, the news, weather...
 
-[server](img/server.png)
+![server](img/server.png)
