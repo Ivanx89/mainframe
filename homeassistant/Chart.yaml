@@ -1,0 +1,15 @@
+apiVersion: v2
+appVersion: 2022.11.5
+description: Helm chart for homeassistant
+icon: https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg
+keywords:
+- homeassistant
+maintainers:
+- email: markus.pesch+apps@cryptic.systems
+  name: Markus Pesch
+name: homeassistant
+sources:
+- https://github.com/volker-raschek/homeassistant-charts
+- https://hub.docker.com/r/homeassistant/home-assistant
+type: application
+version: 0.1.2
